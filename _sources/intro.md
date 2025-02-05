@@ -1,4 +1,4 @@
-# Welcome to your Jupyter Book
+# Welcome to Inattentive's Blog
 
 This is a blog on data analytics.
 It shows off a few of the things I've been learning.
