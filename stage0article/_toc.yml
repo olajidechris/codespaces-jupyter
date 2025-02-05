@@ -4,6 +4,4 @@
 format: jb-book
 root: intro
 chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+- file: /workspaces/codespaces-jupyter/stage-0-initial-analysis-of-facebook-metrics-data.ipynb
