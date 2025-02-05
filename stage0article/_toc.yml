@@ -4,4 +4,5 @@
 format: jb-book
 root: intro
 chapters:
+- file: intro.md
 - file: stage-0-initial-analysis-of-facebook-metrics-data.ipynb
